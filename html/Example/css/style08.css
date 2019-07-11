@@ -1,0 +1,12 @@
+.text {
+    width: 300px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    font-size: 10px;
+}
+
+.description {
+    margin-left: 50px;
+    margin-right: 50px;
+}
