@@ -14,3 +14,10 @@
 .para a {
     text-decoration: none;
 }
+
+.ex1 {
+    border: 3px soild yellow;
+    outline-style: solid;
+    outline-color: invert;
+    outline-width: 6px;
+}
