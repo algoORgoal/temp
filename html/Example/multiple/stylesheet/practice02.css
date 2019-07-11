@@ -1,0 +1,16 @@
+.overline {
+    text-decoration: overline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
+
+}
+
+.para a {
+    text-decoration: none;
+}
