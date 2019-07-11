@@ -3,7 +3,7 @@
     border: 10px solid deeppink;
 }
 
-div {
+.content {
     background-color: lightcyan;
     width: 300px;
     border: 25px solid lightblue;
