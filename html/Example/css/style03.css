@@ -1,0 +1,26 @@
+.red_rgb
+{
+    background-color: rgb(255,99,71);
+}
+
+.red_hexadecimal
+{
+    background-color: #ff6347;
+}
+
+.red_hsl
+{
+    background-color: rgb(255,99,71);
+}
+
+.tomato_rgba
+{
+    background-color: rgba(255, 99, 71, 0.5);
+}
+
+.tomato_hsla
+{
+    background-color: hsla(9,100%,64%,0.5);
+}
+
+/*background only includes content box.*/
