@@ -1,0 +1,23 @@
+.logo {
+    border-radius: 6px;
+    background-color: darkseagreen;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    margin: 0px;
+    border: 100px;
+    line-height: 5px;
+}
+
+/*
+.logo_first {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+*/
+.black {
+    color: black;
+}
