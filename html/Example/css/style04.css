@@ -1,0 +1,22 @@
+body {
+    background-image: url(./img_tree.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.dodger_blue {
+    background-color: dodgerblue;
+}
+
+.medium_sea_green {
+    color: mediumseagreen;
+}
+
+.border {
+    border: 2px solid violet;
+
+}
+
+.tomato {
+    background-color: #ff6347;
+}
