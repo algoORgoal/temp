@@ -1,0 +1,13 @@
+.header_name {
+    margin: 20px 0 0 50px;
+    border: 10px solid deeppink;
+    font-family;
+}
+
+div {
+    background-color: lightcyan;
+    width: 300px;
+    border: 25px solid lightblue;
+    padding: 25px;
+    margin: 50px;
+}
