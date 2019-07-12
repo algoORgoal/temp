@@ -26,17 +26,37 @@ ul li {
     width: 200px;
 }
 
+/* li 을 넣는ㄴ다면?*/
 
-
-li a:hover {
-    background-size: 10px 200px;
-}
-
-li:hover {
+.stylesheet li:hover {
     background-color: darkseagreen;
 }
 
-li a:link {
+ul li a:link {
     text-decoration: none;
     color: black;
+}
+
+/*start here*/
+th {
+    background-color: darkseagreen;
+    color: white;
+}
+
+th,
+td {
+    text-align: left;
+    height: 50px;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+
+tr:nth-child(even) {
+    background-color: #f4f4f4;
+
 }
