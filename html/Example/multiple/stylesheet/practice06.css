@@ -3,11 +3,11 @@
 }
 
 .img-container {
-    float: left;
+    float: right;
     width: 25%;
     padding: 5px;
 }
 
-img {
+.img-container {
     width: 100%
 }
