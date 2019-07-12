@@ -16,6 +16,7 @@
 }
 
 ul {
+    background-size: 30px 100px;
     list-style-type: none;
 }
 
@@ -23,8 +24,19 @@ ul li {
     border-radius: 3px;
     background: gray;
     margin: 5px;
+
 }
 
-.para {
-    background: darkseagreen;
+a {
+    width: 200px;
+}
+
+li a:hover {
+    background-size: 10px 200px;
+    background-color: darkseagreen;
+}
+
+li a:link {
+    text-decoration: none;
+    color: black;
 }
