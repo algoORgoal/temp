@@ -24,6 +24,7 @@ ul li {
     background: gray;
     margin: 5px;
     width: 200px;
+    height: 30px;
 }
 
 /* li 을 넣는ㄴ다면?*/
@@ -46,8 +47,6 @@ th {
 th,
 td {
     text-align: left;
-    height: 50px;
-
 }
 
 table {
@@ -59,4 +58,8 @@ table {
 tr:nth-child(even) {
     background-color: #f4f4f4;
 
+}
+
+li a {
+    display: block;
 }
