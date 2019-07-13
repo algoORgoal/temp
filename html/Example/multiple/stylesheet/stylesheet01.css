@@ -60,7 +60,7 @@ td {
 
 table {
     width: 100%;
-    border-width: 0px;
+    border-collapse: collapse;
 }
 
 
@@ -105,4 +105,11 @@ li a h3 {
 
 .column.middle {
     width: 50%;
+}
+
+td, th{
+    height: 50px;
+    border: solid 1px gainsboro;
+    padding: 0px;
+    margin: 0px;
 }
