@@ -1,6 +1,4 @@
-.topnav {
-
-}
+.topnav {}
 
 
 .topnav a {
@@ -15,7 +13,7 @@ compared to block: does not include line block, can set next to the previous ele
     width: 17%;
     height: 40px;
     padding: 0px;
-    border:0px;
+    border: 0px;
     background-color: gray;
     margin: 1%;
     text-decoration: none;
@@ -25,6 +23,32 @@ compared to block: does not include line block, can set next to the previous ele
 .topnav a:hover {
     background-color: lightgreen;
 }
+
 .green {
-    color:  lightgreen;
+    color: lightgreen;
+}
+
+
+.link a {
+    text-decoration: none;
+    color: black
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightgreen;
+}
+
+tr:nth-child(even) {
+    background-color: #f1f1f1
+}
+
+th,
+td {
+    border: solid 1px gainsboro;
+    height: 40px;
 }
