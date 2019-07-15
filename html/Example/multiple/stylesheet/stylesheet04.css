@@ -48,9 +48,9 @@ tr:nth-child(even) {
 }
 
 .side-bar {
-    width: 400px;
+    width: 30%;
     display: inline-block;
-    height: 240px;
+    height: 100%;
     border: solid 1px white;
     color: white;
     border-radius: 1em;
