@@ -1,0 +1,8 @@
+div > p{
+    background-color:yellow;
+}
+
+/*When selecting is div p
+: includes all p tags inside div
+when it's concatenated by > symbol
+: only includes direct child of div tag(one-depth below
