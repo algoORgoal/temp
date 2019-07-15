@@ -1,8 +1,11 @@
-.topnav {}
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
 
 
 .topnav a {
-    display: inline-table;
+    display: inline-block;
     /*
 inline-block
 compared to inline: can set a width and height of the element.
@@ -10,14 +13,16 @@ top and bottom paddings/margins are respected.
 
 compared to block: does not include line block, can set next to the previous element.
 */
-    width: 17%;
-    height: 40px;
+    width: 175px;
+    height: 60px;
     padding: 0px;
     border: 0px;
     background-color: gray;
     margin: 1%;
     text-decoration: none;
     color: black;
+    text-align: center;
+
 }
 
 .topnav a:hover {
