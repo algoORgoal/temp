@@ -35,7 +35,7 @@ compared to block: does not include line block, can set next to the previous ele
 
 
 .link a {
-    text-decoration: none;
+    text-decoration: line;
     color: black
 }
 
