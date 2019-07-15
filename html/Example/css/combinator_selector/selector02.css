@@ -1,0 +1,13 @@
+/*
+div + p {
+    background-color: yellow;
+}
+select p tag immediately follwing div tag
+*/
+
+div ~ p{
+    background-color: yellow;
+}
+/*
+select all p tags next to div
+*/
