@@ -1,13 +1,30 @@
 .topnav {
-    overflow: hidden;
-    background-color: #333;
-    padding: 14px;
+
 }
 
+
 .topnav a {
-    display: inline;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
+    display: inline-table;
+    /*
+inline-block
+compared to inline: can set a width and height of the element.
+top and bottom paddings/margins are respected.
+
+compared to block: does not include line block, can set next to the previous element.
+*/
+    width: 17%;
+    height: 40px;
+    padding: 0px;
+    border:0px;
+    background-color: gray;
+    margin: 1%;
     text-decoration: none;
+    color: black;
+}
+
+.topnav a:hover {
+    background-color: lightgreen;
+}
+.green {
+    color:  lightgreen;
 }
